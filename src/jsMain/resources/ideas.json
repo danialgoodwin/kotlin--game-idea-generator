@@ -1,0 +1,6 @@
+{
+  "styles": ["geometric", "cartoon", "2D", "3D", "isometric", "card"],
+  "themes": ["animals", "space", "underground", "future", "water"],
+  "genres": ["4D", "action", "adventure", "arcade", "casual", "clicker", "evolve", "idle", "infinite",
+    "magic", "management", "mouse-only", "puzzle", "racing", "RPG", "shooter", "speed run", "turn-based"]
+}
